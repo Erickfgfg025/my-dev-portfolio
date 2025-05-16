@@ -52,41 +52,6 @@ section {
   border-radius: 8px;
   transition: background 0.3s;
 }
-.projetos {
-  padding: 2rem;
-  background-color: #f9f9f9;
-}
-
-.projetos h2 {
-  text-align: center;
-  margin-bottom: 2rem;
-}
-
-.projetos-lista {
-  display: grid;
-  gap: 1.5rem;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-}
-
-.projeto {
-  background-color: white;
-  padding: 1.5rem;
-  border-radius: 10px;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-}
-
-.projeto h3 {
-  margin-top: 0;
-}
-
-.projeto a {
-  color: #007bff;
-  text-decoration: none;
-}
-
-.projeto a:hover {
-  text-decoration: underline;
-}
 
 a {
   color: var(--primary);
